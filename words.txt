@@ -1,0 +1,10 @@
+earth
+mineral
+rock
+world
+stone
+priest
+god
+nun
+heaven
+devil

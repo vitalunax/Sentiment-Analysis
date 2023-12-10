@@ -1,0 +1,5 @@
+stanza
+spacy
+gensim
+transformers==4.29.2
+tensorflow_hub
